@@ -15,7 +15,7 @@
 
 ## 22.8
 
-- [ ] Projekt finden
+- [ ] Projekt finden (https://github.com/mikaolmes/Lernperiode-11/issues/1)
 - [ ] Informationen Sammeln, was brauche ich
 - [ ] Skizze des Designs
 
