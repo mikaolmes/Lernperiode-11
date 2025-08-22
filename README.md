@@ -17,7 +17,7 @@
 
 - [X] Projekt finden (https://github.com/mikaolmes/Lernperiode-11/issues/1)
 - [ ] Informationen Sammeln, was brauche ich (https://github.com/mikaolmes/Lernperiode-11/issues/2)
-- [ ] Skizze des Layouts, wie soll die App später aussehen (https://github.com/mikaolmes/Lernperiode-11/issues/3)
+- [X] Skizze des Layouts, wie soll die App später aussehen (https://github.com/mikaolmes/Lernperiode-11/issues/3)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
@@ -25,10 +25,10 @@
 
 ## 29.8
 
-- [ ] Arbeitspaket 1
-- [ ] Arbeitspaket 2
-- [ ] Arbeitspaket 3 
-- [ ] Arbeitspaket 4
+- [ ] Als Benutzer möchte ich ein klares Layout haben, die meinen Erwartungen entsprechen.
+- [ ] Als Benutzer möchte ich schon etwas von der App sehen, z.b. eine Demonstration, muss nicht viel sein.
+- [ ] Als Benutzer möchte ich Farben direkt sehen wann ich etwas Ausgegeben habe oder etwas Bekommen habe.
+- [ ] Als Benutzer möchte ich das die App schon eine Funktion beinhaltet, bei der App soll man schon seinen Kontostand eingeben können, damit theoretisch schon Beträge abgezogen oder hinzugefügt werden können.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
