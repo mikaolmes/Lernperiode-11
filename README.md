@@ -16,7 +16,7 @@
 ## 22.8
 
 - [ ] Projekt finden (https://github.com/mikaolmes/Lernperiode-11/issues/1)
-- [ ] Informationen Sammeln, was brauche ich
+- [ ] Informationen Sammeln, was brauche ich (https://github.com/mikaolmes/Lernperiode-11/issues/2)
 - [ ] Skizze des Designs
 
 ✍️ Heute habe ich... (50-100 Wörter)
