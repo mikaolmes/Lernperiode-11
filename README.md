@@ -5,11 +5,11 @@
 ## Grob-Planung
 
 1. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
-     
+   Ich möchte einen Ausgaben-Tracker erstellen, wo man Ausgaben oder Erträge eintragen kann. Jeden Monat wird dann der Insgesamte Verlust bzw. Ertrag aufgelistet, und man kann das jederzeit anschauen. Ebenfalls sollen automatische Zahlungen ebenfalls möglich sein.
 2. Erklären Sie, welche technischen Herausforderungen Sie in Ihrem Projekt erwarten.
-   
+   Die App selber herzustellen ist eine Herausforderung, denn ich mache das zum ersten mal, aber wenn ich überlege, wird das zusammenrechnen der Zahlen und diese dann abzuspeichern.
 3. Beschreiben Sie, welche nicht-technischen Aspekte Sie in diesem Projekt besonders üben möchten.
-   
+   Ich möchte es gut dokumentieren und als vorzeige Projekt für meine Bewerbung verwenden.
 4. Wie unterscheidet sich dieses Projekt von Ihrem Projekt in 335; und wo ergänzen sich diese Projekte?
    Ich habe absolut keine Ahnung was ich im Modul 335 machen möchte, deshalb untescheiden sie sich auf der ganzen Länge.
 
