@@ -5,15 +5,19 @@
 ## Grob-Planung
 
 1. Erklären Sie Ihre Projekt-Idee in einem Satz, als müssen Sie einen Investor davon überzeugen.
+     
 2. Erklären Sie, welche technischen Herausforderungen Sie in Ihrem Projekt erwarten.
+   
 3. Beschreiben Sie, welche nicht-technischen Aspekte Sie in diesem Projekt besonders üben möchten.
+   
 4. Wie unterscheidet sich dieses Projekt von Ihrem Projekt in 335; und wo ergänzen sich diese Projekte?
+   Ich habe absolut keine Ahnung was ich im Modul 335 machen möchte, deshalb untescheiden sie sich auf der ganzen Länge.
 
 ## 22.8
 
-- [ ] Arbeitspaket 1: Erstellen Sie ein Projekt und beginnen Sie mir ersten Code-Skizzen. Das ist wichtig, Sie müssen heute bereits schon C#-Code hochladen!
-- [ ] Arbeitspaket 2 (Falls Sie den *maker space* besuchen, dann dürfen Sie diesen Punkt löschen. Ansonsten fügen Sie hier ein weiteres AP ein).
-- [ ] Arbeitspaket 3
+- [ ] Projekt finden
+- [ ] Informationen Sammeln, was brauche ich
+- [ ] Skizze des Designs
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
