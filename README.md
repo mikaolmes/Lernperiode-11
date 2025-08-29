@@ -25,11 +25,18 @@
 
 ## 29.8
 
-- [ ] Als Benutzer möchte ich ein klares Layout haben, die meinen Erwartungen entsprechen.
-- [ ] Als Benutzer möchte ich schon etwas von der App sehen, z.b. eine Demonstration, muss nicht viel sein.
-- [ ] Als Benutzer möchte ich Farben direkt sehen wann ich etwas Ausgegeben habe oder etwas Bekommen habe.
+- [X] Als Benutzer möchte ich ein klares Layout haben, die meinen Erwartungen entsprechen.
+- [X] Als Benutzer möchte ich schon etwas von der App sehen, z.b. eine Demonstration, muss nicht viel sein.
+- [X] Als Benutzer möchte ich Farben direkt sehen wann ich etwas Ausgegeben habe oder etwas Bekommen habe.
 - [ ] Als Benutzer möchte ich das die App schon eine Funktion beinhaltet, bei der App soll man schon seinen Kontostand eingeben können, damit theoretisch schon Beträge abgezogen oder hinzugefügt werden können.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich angefangen mein Projekt umzusetzten, doch leider hatte ich grosse Probleme das Projekt zum laufen zu bringen, da es ein Problem mit dem InitializeComponent(); gab. Doch nach einem kurzen Gespräch m it meinem Lehrer (Nicola Colic) funktionierte es. Daraufhin konnte ich weiterarbeiten und schon das ganze Design umsetzen, bis auf den Menu Icon. Als nächtes muss ich die Funktionen implementieren, sodass es am schluss funktioniert. (67 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
+## 05.09
+
+- [ ] AAls Benutzer möchte ich ein Menu haben, damit ich in die Einstellungen komme um zum Beispiel die Sprache zu ändern.
+- [ ] Als Benutzer möchte ich, dass ich meinen aktuellen Kontostand eintragen kann.
+- [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
+- [ ] Als Benutzer möchte ich in im Menu einen Hilfe-Button haben, damit ich wenn ich Fragen habe diese stellen kann.
