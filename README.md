@@ -32,7 +32,7 @@
 
 ✍️ Heute habe ich angefangen mein Projekt umzusetzten, doch leider hatte ich grosse Probleme das Projekt zum laufen zu bringen, da es ein Problem mit dem InitializeComponent(); gab. Doch nach einem kurzen Gespräch m it meinem Lehrer (Nicola Colic) funktionierte es. Daraufhin konnte ich weiterarbeiten und schon das ganze Design umsetzen, bis auf den Menu Icon. Als nächtes muss ich die Funktionen implementieren, sodass es am schluss funktioniert. (67 Wörter)
 
-☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen --> Der Code finden Sie unter dem Repository "Money-flow"
 
 ## 05.09
 
