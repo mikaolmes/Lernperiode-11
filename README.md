@@ -39,4 +39,13 @@
 - [ ] AAls Benutzer möchte ich ein Menu haben, damit ich in die Einstellungen komme um zum Beispiel die Sprache zu ändern.
 - [ ] Als Benutzer möchte ich, dass ich meinen aktuellen Kontostand eintragen kann.
 - [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
-- [ ] Als Benutzer möchte ich in im Menu einen Hilfe-Button haben, damit ich wenn ich Fragen habe diese stellen kann.
+- [X] Als Benutzer möchte ich in im Menu einen Hilfe-Button haben, damit ich wenn ich Fragen habe diese stellen kann.
+
+✍️ Heute habe ich probiert neue Pages zu implementieren, wie zum beispiel die SettingsPage oder HelpPage, jedoch hatte ich immer wieder dasselbe Problem. Es gab keine probleme beim erstellen dieser Pages, doch als ich dann den Code dieser neu erstellen Page geöffnet hatte, ging InitializeComponent(); nicht mehr. Also dasselbe Problem wie letztes mal. Und das war bei jeder Seite so, also habe ich es versucht das Problem zu lösen, doch es funktioniert immer noch nicht. (74 Wörter)
+
+## 12.09.2025
+
+- [ ] AAls Benutzer möchte ich ein Menu haben, damit ich in die Einstellungen komme um zum Beispiel die Sprache zu ändern.
+- [ ] Als Benutzer möchte ich, dass ich meinen aktuellen Kontostand eintragen kann.
+- [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
+- [ ] Als Benutzer möchte ich das es keine Probleme gibt (InitializeComponent();)
