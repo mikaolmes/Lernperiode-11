@@ -45,7 +45,7 @@
 
 ## 12.09.2025
 
-- [ ] AAls Benutzer möchte ich ein Menu haben, damit ich in die Einstellungen komme um zum Beispiel die Sprache zu ändern.
+- [X] AAls Benutzer möchte ich ein Menu haben, damit ich in die Einstellungen komme um zum Beispiel die Sprache zu ändern.
 - [ ] Als Benutzer möchte ich, dass ich meinen aktuellen Kontostand eintragen kann.
 - [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
-- [ ] Als Benutzer möchte ich das es keine Probleme gibt (InitializeComponent();)
+- [X] Als Benutzer möchte ich das es keine Probleme gibt (InitializeComponent();)
