@@ -57,3 +57,12 @@
 - [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
 - [X] Offline Arbeitspacket, weitere Designs erstellen, neue Ideen umsetzten
 - [X] Als Benutzer möchte ich, dass das Ändern der Sprache auswirkungen auf die Währung hat.
+
+✍️ Heute habe ich als erstes neue Designs gemacht und es gefällt mir schon besser, danach habe ich das Programm in Visual Studio gestartet, und da war es wieder, es hat nicht funktioniert, danach habe ich mich entschieden React Native Expo zu verwenden, und es funktioniert viel besser als .Net Maui. Ich kann die Sprache auswählen und die Währung und auch schon den Betrag eingeben, jedoch danach passiert nichts mehr. (69 Wörter)
+
+## 26.09.2025
+- [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
+- [ ] Als Benutzer möchte ich einen Button für Einstellungen haben
+- [ ] Als benutzer möchte ich meinen Account zurücksetzten können, damit ich neu anfangen kann.
+- [ ] Als Bneutzer möchte ich in den Einstellungen die Sprache und Währung ändern, sodass es direkte nachfolgen hat auf den Betrag (umrechnen)
+
