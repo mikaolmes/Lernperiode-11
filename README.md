@@ -49,3 +49,5 @@
 - [ ] Als Benutzer möchte ich, dass ich meinen aktuellen Kontostand eintragen kann.
 - [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
 - [X] Als Benutzer möchte ich das es keine Probleme gibt (InitializeComponent();)
+
+✍️ Heute habe ich es endlich geschafft, dass das Program startet ohne das es einen Fehler mit dem InitializeComponent gibt. Deshalb konnte ich ein Menu erstellen, wo man die Sprache ändern kann, und andere Einstellungen die man vornehmen kann. Jezt kann ich hoffentlich durchstarten und die Kernfunktionen implementieren. (47 Wörter)
