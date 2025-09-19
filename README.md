@@ -65,4 +65,5 @@
 - [ ] Als Benutzer möchte ich einen Button für Einstellungen haben
 - [ ] Als benutzer möchte ich meinen Account zurücksetzten können, damit ich neu anfangen kann.
 - [ ] Als Bneutzer möchte ich in den Einstellungen die Sprache und Währung ändern, sodass es direkte nachfolgen hat auf den Betrag (umrechnen)
+--> Den Code habe ich auf meinem anderen Repository hochgeladen: ["Money-flow"](https://github.com/mikaolmes/money-flow).
 
