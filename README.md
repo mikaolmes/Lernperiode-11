@@ -53,7 +53,7 @@
 ✍️ Heute habe ich es endlich geschafft, dass das Program startet ohne das es einen Fehler mit dem InitializeComponent gibt. Deshalb konnte ich ein Menu erstellen, wo man die Sprache ändern kann, und andere Einstellungen die man vornehmen kann. Jezt kann ich hoffentlich durchstarten und die Kernfunktionen implementieren. (47 Wörter)
 
 ## 19.09.2025
-- [ ] Als Benutzer möchte ich, dass ich meinen aktuellen Kontostand eintragen kann.
+- [X] Als Benutzer möchte ich, dass ich meinen aktuellen Kontostand eintragen kann.
 - [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
-- [ ] Offline Arbeitspacket, weitere Designs erstellen, neue Ideen umsetzten
-- [ ] Als Benutzer möchte ich, dass das Ändern der Sprache auswirkungen auf die Währung hat.
+- [X] Offline Arbeitspacket, weitere Designs erstellen, neue Ideen umsetzten
+- [X] Als Benutzer möchte ich, dass das Ändern der Sprache auswirkungen auf die Währung hat.
