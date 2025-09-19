@@ -1,4 +1,4 @@
-# Lern-Periode 11
+ Lern-Periode 11
 
 22.8 bis 26.9.2024
 
@@ -9,7 +9,7 @@
 2. Erklären Sie, welche technischen Herausforderungen Sie in Ihrem Projekt erwarten.
    Die App selber herzustellen ist eine Herausforderung, denn ich mache das zum ersten mal, aber wenn ich überlege, wird das zusammenrechnen der Zahlen und diese dann abzuspeichern.
 3. Beschreiben Sie, welche nicht-technischen Aspekte Sie in diesem Projekt besonders üben möchten.
-   Ich möchte es gut dokumentieren und als vorzeige Projekt für meine Bewerbung verwenden.
+  Ich möchte es gut dokumentieren und als vorzeige Projekt für meine Bewerbung verwenden.
 4. Wie unterscheidet sich dieses Projekt von Ihrem Projekt in 335; und wo ergänzen sich diese Projekte?
    Ich habe absolut keine Ahnung was ich im Modul 335 machen möchte, deshalb untescheiden sie sich auf der ganzen Länge.
 
@@ -51,3 +51,9 @@
 - [X] Als Benutzer möchte ich das es keine Probleme gibt (InitializeComponent();)
 
 ✍️ Heute habe ich es endlich geschafft, dass das Program startet ohne das es einen Fehler mit dem InitializeComponent gibt. Deshalb konnte ich ein Menu erstellen, wo man die Sprache ändern kann, und andere Einstellungen die man vornehmen kann. Jezt kann ich hoffentlich durchstarten und die Kernfunktionen implementieren. (47 Wörter)
+
+## 19.09.2025
+- [ ] Als Benutzer möchte ich, dass ich meinen aktuellen Kontostand eintragen kann.
+- [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
+- [ ] Offline Arbeitspacket, weitere Designs erstellen, neue Ideen umsetzten
+- [ ] Als Benutzer möchte ich, dass das Ändern der Sprache auswirkungen auf die Währung hat.
