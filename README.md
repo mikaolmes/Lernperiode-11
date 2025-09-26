@@ -61,9 +61,12 @@
 ✍️ Heute habe ich als erstes neue Designs gemacht und es gefällt mir schon besser, danach habe ich das Programm in Visual Studio gestartet, und da war es wieder, es hat nicht funktioniert, danach habe ich mich entschieden React Native Expo zu verwenden, und es funktioniert viel besser als .Net Maui. Ich kann die Sprache auswählen und die Währung und auch schon den Betrag eingeben, jedoch danach passiert nichts mehr. (69 Wörter)
 
 ## 26.09.2025
-- [ ] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
-- [ ] Als Benutzer möchte ich einen Button für Einstellungen haben
-- [ ] Als benutzer möchte ich meinen Account zurücksetzten können, damit ich neu anfangen kann.
-- [ ] Als Bneutzer möchte ich in den Einstellungen die Sprache und Währung ändern, sodass es direkte nachfolgen hat auf den Betrag (umrechnen)
+- [X] Als Benutzer möchte ich meine Ausgaben und Einnahmen eintragen können, und das ich sie auf dem Bildschirm sehe, sodass ich auf dem laufenden mit meinen Ausgaben sein kann.
+- [X] Als Benutzer möchte ich einen Button für Einstellungen haben
+- [X] Als benutzer möchte ich meinen Account zurücksetzten können, damit ich neu anfangen kann.
+- [X] Als Bneutzer möchte ich in den Einstellungen die Sprache und Währung ändern, sodass es direkte nachfolgen hat auf den Betrag (umrechnen)
 --> Den Code habe ich auf meinem anderen Repository hochgeladen: ["Money-flow"](https://github.com/mikaolmes/money-flow).
+
+✍️ Heute habe ich die FUnktion hinzugefügt, dass der Benutzer seine Ausgaben und Eingaben eingeben kann, und dadurch wird automatisch das Aktuelle Guthaben berechnet. Ausserdem kann man seinen Account jetzt auch löschen, um neu zu Starten, dazu kann man sein Guthaben auch direkt in Euro usw. umrechnen lassen. Dafür muss man nur in die Einstellungen und die Währung ändern. Meine Verbesserungsvorschläge wären: Transaktionen bearbeiten und zu löschen, denn wenn man einen kleinen Fehler macht, kann man das nicht mehr beheben. (80 Wörter)
+
 
