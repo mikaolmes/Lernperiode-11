@@ -78,3 +78,12 @@
 ✍️ Heute habe ich die bearbeitung und löschung von Transaktionen hinzugefügt, damit man diese ändern kann, falls man sich vertan hat und es umändern muss. Dazu habe ich auch noch eine Monthly und Weekly Zahlungs Transaktionen gemacht, durch dieser Einstellung werden diese automatisch abgezogen. Als Test habe ich dann noch eine Secondly hinzugefügt, und wenn es funktionieren sollte, dann sollte jede sekunde der gleiche betrag hinzugefügt oder abgezogen werden. Und das hat es. (72 Wörter)
 
 
+## Beschreibung fertiges Projekt
+Mein Projekt Money Flow ist eine Ausgaben-Tracker-App, mit der man seine Finanzen übersichtlich verwalten kann. Der Benutzer kann Einnahmen und Ausgaben eintragen, wodurch der aktuelle Kontostand automatisch berechnet wird. In den Einstellungen lässt sich die Sprache und Währung ändern, was direkte Auswirkungen auf die Anzeige der Beträge hat. Außerdem ist es möglich, automatische Zahlungen (z. B. Monatsabos) festzulegen, die in bestimmten Intervallen automatisch abgezogen oder hinzugefügt werden.
+Zusätzlich kann der Benutzer bestehende Transaktionen bearbeiten oder löschen, falls Fehler gemacht wurden. Die App bietet somit eine einfache, aber funktionale Übersicht über die eigenen Finanzen und hilft, Einnahmen und Ausgaben im Blick zu behalten.
+
+## Reflexion
+Zu Beginn hatte ich grosse Schwierigkeiten mit .NET MAUI, besonders wegen des Fehlers mit InitializeComponent();, der mich mehrfach aufgehalten hat. Nach mehreren Versuchen hat unser Lehrer (Nicola Colic) mir empfohlen das Projekt doch lieber mit react Native Expo zu machen, was sich als die richtige Entscheidung herausgestellt hat.
+Gut lief das Design und die Implementierung der Grundfunktionen, also das Erfassen und Berechnen der Beträge. Auch das Feature mit den automatischen Zahlungen war spannend umzusetzen und funktionierte am Ende gut.
+Was weniger gut lief, war der Start mit dem falschen Framework und die wiederholten technischen Probleme, die mich viel Zeit kosteten. In Zukunft würde ich früher auf ein funktionierendes System wechseln und die Planung genauer machen. Insgesamt bin ich aber zufrieden, weil ich viele neue Dinge gelernt habe und jetzt eine funktionsfähige App erstellt habe.
+
