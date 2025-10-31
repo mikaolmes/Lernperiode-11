@@ -71,9 +71,8 @@
 
 
 ## 31.10.2025
-- [ ] Als Benutzer möchte ich bestehende Transaktionen bearbeiten oder löschen können, falls ich mich beim Eintrag vertan habe.
-- [X] Als Benutzer möchte ich Kategorien für meine Ausgaben/Einnahmen erstellen (z. B. Essen, Miete, Freizeit), um einen besseren Überblick zu haben.
-- [ ] Als Benutzer möchte ich eine monatliche Übersicht (Diagramm oder Liste) sehen, damit ich meine Finanzen besser analysieren kann.
+- [ ] Als Benutzer möchte ich bestehende Transaktionen bearbeiten können, falls ich mich vertan habe.
+- [ ] Als Bentuzer möchte ich bestehende Transaktionen löschen können, falls ich einen falschen Eintrag gemacht habe.
 - [ ] Als Benutzer möchte ich automatische (wiederkehrende) Zahlungen anlegen können, damit diese nicht manuell hinzugefügt werden müssen.
 
 
