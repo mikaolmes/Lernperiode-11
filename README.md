@@ -70,3 +70,13 @@
 ✍️ Heute habe ich die FUnktion hinzugefügt, dass der Benutzer seine Ausgaben und Eingaben eingeben kann, und dadurch wird automatisch das Aktuelle Guthaben berechnet. Ausserdem kann man seinen Account jetzt auch löschen, um neu zu Starten, dazu kann man sein Guthaben auch direkt in Euro usw. umrechnen lassen. Dafür muss man nur in die Einstellungen und die Währung ändern. Meine Verbesserungsvorschläge wären: Transaktionen bearbeiten und zu löschen, denn wenn man einen kleinen Fehler macht, kann man das nicht mehr beheben. (80 Wörter)
 
 
+## 31.10.2025
+- [ ] Als Benutzer möchte ich bestehende Transaktionen bearbeiten oder löschen können, falls ich mich beim Eintrag vertan habe.
+- [X] Als Benutzer möchte ich Kategorien für meine Ausgaben/Einnahmen erstellen (z. B. Essen, Miete, Freizeit), um einen besseren Überblick zu haben.
+- [ ] Als Benutzer möchte ich eine monatliche Übersicht (Diagramm oder Liste) sehen, damit ich meine Finanzen besser analysieren kann.
+- [ ] Als Benutzer möchte ich automatische (wiederkehrende) Zahlungen anlegen können, damit diese nicht manuell hinzugefügt werden müssen.
+
+
+✍️ Heute habe ich
+
+
