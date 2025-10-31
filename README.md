@@ -71,11 +71,10 @@
 
 
 ## 31.10.2025
-- [ ] Als Benutzer möchte ich bestehende Transaktionen bearbeiten können, falls ich mich vertan habe.
-- [ ] Als Bentuzer möchte ich bestehende Transaktionen löschen können, falls ich einen falschen Eintrag gemacht habe.
-- [ ] Als Benutzer möchte ich automatische (wiederkehrende) Zahlungen anlegen können, damit diese nicht manuell hinzugefügt werden müssen.
+- [X] Als Benutzer möchte ich bestehende Transaktionen bearbeiten können, falls ich mich vertan habe.
+- [X] Als Bentuzer möchte ich bestehende Transaktionen löschen können, falls ich einen falschen Eintrag gemacht habe.
+- [X] Als Benutzer möchte ich automatische Zahlungen anlegen können, damit diese nicht manuell hinzugefügt werden müssen, dazu gehören Monatsabos usw.
 
-
-✍️ Heute habe ich
+✍️ Heute habe ich die bearbeitung und löschung von Transaktionen hinzugefügt, damit man diese ändern kann, falls man sich vertan hat und es umändern muss. Dazu habe ich auch noch eine Monthly und Weekly Zahlungs Transaktionen gemacht, durch dieser Einstellung werden diese automatisch abgezogen. Als Test habe ich dann noch eine Secondly hinzugefügt, und wenn es funktionieren sollte, dann sollte jede sekunde der gleiche betrag hinzugefügt oder abgezogen werden. Und das hat es. (72 Wörter)
 
 
